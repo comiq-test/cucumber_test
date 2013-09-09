@@ -1,0 +1,2 @@
+sudo apt-get install xvfb
+gem install headless
